@@ -1,0 +1,17 @@
+header{
+    width:100%;
+    float:left;
+    }
+    .container{
+        width:80%;
+        max-width:1000px;
+        background:#fff;
+        margin: 20px auto;
+        border-radius:2%;
+    }
+    .nav ul{
+        display: inline-block;
+    }
+
+
+    
